@@ -1,2 +1,2 @@
 # hello-world
-#inlcude <stdio.h>
+#inlcude<stdio.h>
